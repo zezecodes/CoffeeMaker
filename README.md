@@ -1,2 +1,2 @@
 # CoffeeMaker
-A coffee maker program developed with python
+An OOP coffee maker program developed with Python
